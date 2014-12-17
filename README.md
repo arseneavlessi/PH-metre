@@ -25,7 +25,7 @@ PH-metre
 
 		* le electrodes PH présentent une resistance de résistance de 10 MO et 1000 MO => besoin de faible courant et besoin d'une très grande resistance en entrée (1 nanoAmp par 100 MOHMS égale 0.1 volts. C'est déjà équivalent à presque 2 unités pH). donc les AOP doivent avoir un courant Ibias faible . 
 
-		*Me basant sur un montage a base d'un TL081, J'ai remplacé le TL081 par un TL062 présentant un courant de polarisation de 30 pico ampere . Voire document modele (simulation protéus)
+		*Me basant sur un montage a base d'un TL081, J'ai remplacé le TL081 par un TL062 présentant un courant de polarisation de 30 pico ampere .document modele (simulation protéus)
 	
 
 Ressources: 
